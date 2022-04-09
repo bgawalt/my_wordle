@@ -8,7 +8,7 @@ games together, what's the mean color value of each grid element?
 
 Answer (as of Apr 8, 2022):
 
-![Mean Wordle result, as of Apr 8, 2022][bgawalt_20220408.png]
+![Mean Wordle result, as of Apr 8, 2022](bgawalt_20220408.png)
 
 ## Usage
 
