@@ -6,9 +6,9 @@ the famously copy-pasteable emoji-color patterns, but the specific words.)
 Now I can visualize my "average Wordle," in the sense of: if I average all my
 games together, what's the mean color value of each grid element?
 
-Answer (for the sixty-eight puzzles on file as of Apr 8, 2022):
+Answer (for the 168 puzzles on file as of July 18, 2022):
 
-![Mean Wordle result, as of Apr 8, 2022](bgawalt_20220408.png)
+![Mean Wordle result, as of July 18, 2022](bgawalt_20220718.png)
 
 ## Usage
 
